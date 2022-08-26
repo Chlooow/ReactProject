@@ -19,21 +19,24 @@ export const alimentList = [
 		id: '1ed',
 		isBestSale: true,
         date : 1,
-        countryCode : 243 
+        countryCode : 243,
+        cover : chikwangue
     },
     {
         name: 'Tangawisi',
 		category: 'classique',
 		id: '2ab',
         date : 1,
-        countryCode : 243 
+        countryCode : 243,
+        cover : gingembre
     },
     {
         name: 'Ngai Ngai',
 		category: 'classique',
 		id: '3sd',
         date : 2,
-        countryCode : 242 
+        countryCode : 242,
+        cover : ngai
     },
     {
         name: 'Banane plantain',
@@ -41,7 +44,8 @@ export const alimentList = [
 		id: '4kk',
         isBestSale : true,
         date : 1,
-        countryCode : 242 
+        countryCode : 242,
+        cover : banane
     },
     {
         name: 'huile de palme',
@@ -49,14 +53,16 @@ export const alimentList = [
 		id: '5pl',
         isBestSale : true,
         date : 2,
-        countryCode : 243 
+        countryCode : 243,
+        cover : palm
     },
     {
         name: 'Mango',
 		category: 'extérieur',
 		id: '6uo',
         date : 1,
-        countryCode : 242
+        countryCode : 242,
+        cover : mango
     },
     {
         name: 'basilique',
@@ -65,7 +71,8 @@ export const alimentList = [
         isBestSale: false,
         isSpecialOffer : true,
         date : 1,
-        countryCode : 243 
+        countryCode : 243,
+        cover : basil
     },
     {
         name: 'aloe',
@@ -74,14 +81,16 @@ export const alimentList = [
         isBestSale : false,
         isSpecialOffer: true,
         date : 1,
-        countryCode : 1
+        countryCode : 1,
+        cover : aloe
     },
     {
         name: 'Igname',
 		category: 'extérieur',
 		id: '9vn',
         date : 1,
-        countryCode : 243
+        countryCode : 243,
+        cover : yam
     }
 
 ]
