@@ -63,7 +63,7 @@ export const alimentList = [
 		category: 'extérieur',
 		id: '7ie',
         isBestSale: false,
-        isSpecialOffer : true;
+        isSpecialOffer : true,
         date : 1,
         countryCode : 243 
     },
