@@ -6,7 +6,7 @@ import mango from '../assets/mango.png'
 import basil from '../assets/basilic.png'
 import chikwangue from '../assets/chikwanga-removebg-preview.png'
 import aloevera from '../assets/Aloe.png'
-import yam from '../assets/yam.png'*/
+import yam from '../assets/yam.png'
 
 export const alimentList = [
 	{
@@ -16,7 +16,7 @@ export const alimentList = [
         isBestSale : true//,
 		/* date : 7,
 		countrycode : 242,
-		cover : chikwangue*/
+		cover : chikwangue
 		
 	},
 	{
@@ -26,7 +26,7 @@ export const alimentList = [
         isBestSale : false//,
 		/*date : 10,
 		countrycode : 242,
-		cover : gingembre*/
+		cover : gingembre
 	},
 	{
 		name: 'Ngai Ngai',
@@ -35,7 +35,7 @@ export const alimentList = [
         isBestSale : true//,
 		/*date : 10,
 		countrycode : 243,
-		cover : ngai*/
+		cover : ngai
 	},
 	{
 		name: 'Banane plantain',
@@ -44,7 +44,7 @@ export const alimentList = [
         isBestSale : true//,
 		/*date : 3,
 		countrycode : 243,
-		cover : banane*/
+		cover : banane
 	},
 	{
 		name: 'huile de palme',
@@ -53,7 +53,7 @@ export const alimentList = [
         isBestSale : true//,
 		/*date : 10,
 		countrycode : 242,
-		cover : palmoil*/
+		cover : palmoil
 	},
 	{
 		name: 'Manga',
@@ -63,7 +63,7 @@ export const alimentList = [
         isAvailable : false//,
 		/*date : 3,
 		countrycode : 242,
-		cover : mango*/
+		cover : mango
 	},
 	{
 		name: 'basilique',
@@ -73,7 +73,7 @@ export const alimentList = [
         isSpecialOffer : true//,
 		/*date : 10,
 		countrycode : 243,
-		cover : basil*/
+		cover : basil*
 	}
 	//pb
 	{
@@ -84,7 +84,7 @@ export const alimentList = [
         isSpecialOffer : true//,
 		/*date : 4,
 		countrycode : 243,
-		cover : aloe*/
+		cover : aloe*
 		
 	},
 	{
@@ -94,6 +94,6 @@ export const alimentList = [
         isBestSale : false//,
 		/*date : 10,
 		countrycode : 242,
-		cover : yam*/
+		cover : yam*
 	}
-]
+]*/

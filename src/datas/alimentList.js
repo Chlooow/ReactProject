@@ -1,15 +1,13 @@
 // import des images
-import chikwangue from '../assets/chikwangue.png'
+import chikwangue from '../assets/chikwanga.png'
 import gingembre from '../assets/gingembre.png'
 import banane from '../assets/bananeplantain.png'
 import ngai from '../assets/ngai.png'
 import palm from '../assets/palmoil.png'
 import mango from '../assets/mango.png'
 import basil from '../assets/basilic.png'
-import aloe from '../assets/aloe.png'
+import aloe from '../assets/Aloe.png'
 import yam from '../assets/yam.png'
-
-
 
 
 export const alimentList = [
@@ -18,24 +16,24 @@ export const alimentList = [
 		category: 'classique',
 		id: '1ed',
 		isBestSale: true,
-        date : 1,
-        countryCode : 243,
+        light : 2,
+        water : 3,
         cover : chikwangue
     },
     {
         name: 'Tangawisi',
 		category: 'classique',
 		id: '2ab',
-        date : 1,
-        countryCode : 243,
+        light : 3,
+        water : 1,
         cover : gingembre
     },
     {
         name: 'Ngai Ngai',
 		category: 'classique',
 		id: '3sd',
-        date : 2,
-        countryCode : 242,
+        light : 1,
+        water : 2,
         cover : ngai
     },
     {
@@ -43,8 +41,8 @@ export const alimentList = [
 		category: 'classique',
 		id: '4kk',
         isBestSale : true,
-        date : 1,
-        countryCode : 242,
+        light : 3,
+        water : 1,
         cover : banane
     },
     {
@@ -52,16 +50,16 @@ export const alimentList = [
 		category: 'extérieur',
 		id: '5pl',
         isBestSale : true,
-        date : 2,
-        countryCode : 243,
+        light : 3,
+        water : 1,
         cover : palm
     },
     {
         name: 'Mango',
 		category: 'extérieur',
 		id: '6uo',
-        date : 1,
-        countryCode : 242,
+        light : 2,
+        water : 2,
         cover : mango
     },
     {
@@ -70,8 +68,8 @@ export const alimentList = [
 		id: '7ie',
         isBestSale: false,
         isSpecialOffer : true,
-        date : 1,
-        countryCode : 243,
+        light : 2,
+        water : 3,
         cover : basil
     },
     {
@@ -80,16 +78,16 @@ export const alimentList = [
 		id: '8fp',
         isBestSale : false,
         isSpecialOffer: true,
-        date : 1,
-        countryCode : 1,
+        light : 2,
+        water : 1,
         cover : aloe
     },
     {
         name: 'Igname',
 		category: 'extérieur',
 		id: '9vn',
-        date : 1,
-        countryCode : 243,
+        light : 2,
+        water : 1,
         cover : yam
     }
 
