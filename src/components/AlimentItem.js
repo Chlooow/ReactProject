@@ -3,7 +3,7 @@ import '../styles/AlimentItem.css'
 
 function handleClick(/*alimentName*/) {
     //alert('Vous voulez acheter 1 ${alimentName}? Très bon choix')
-    console.log('Mbote')
+    console.log('wsh')
 }
 
 function AlimentItem({ id, cover, name, water, light }) {
