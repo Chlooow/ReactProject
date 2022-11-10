@@ -1,0 +1,30 @@
+.lmj-aliment-list {
+	list-style-type: none;
+	padding: 50px;
+	display: flex;
+	flex-wrap: wrap-reverse;
+	max-width: 900px;
+}
+
+.lmj-aliment-item {
+	border: solid 1px rgb(244, 241, 241);
+	border-radius: 20px;
+	height: 80px;
+	width: 80px;
+	margin: 100px;
+	display: flex;
+	align-items: center;
+	justify-content: left;
+	flex-direction: column;
+	position: relative;
+}
+
+.lmj-sales {
+	position: absolute;
+	right: 0px;
+	top: 10px;
+	font-weight: 500;
+	color: white;
+	padding: 5px 10px;
+	background-color: #088b1e;
+}

@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e6d7897c.css",
+    "main.js": "/static/js/main.f9eb9c97.js",
+    "static/media/mango.png": "/static/media/mango.3917fe51f37675f075f7.png",
+    "static/media/basilic.png": "/static/media/basilic.23951f195394f0246fc7.png",
+    "static/media/chikwanga.png": "/static/media/chikwanga.742a8ce4e7c49368f906.png",
+    "static/media/Aloe.png": "/static/media/Aloe.c415ba2a847a3a0091a0.png",
+    "static/media/bananeplantain.png": "/static/media/bananeplantain.371f8d5bbdda2c28a058.png",
+    "static/media/yam.png": "/static/media/yam.df472506c9cfa2ee750f.png",
+    "static/media/gingembre.png": "/static/media/gingembre.262126df1f1b37498fe9.png",
+    "static/media/ngai.png": "/static/media/ngai.f3369071d01fd02564d1.png",
+    "static/media/palmoil.png": "/static/media/palmoil.48894134de502758846e.png",
+    "static/media/congoleseRDC.png": "/static/media/congoleseRDC.e1426cae6de4ed303bf6.png",
+    "index.html": "/index.html",
+    "main.e6d7897c.css.map": "/static/css/main.e6d7897c.css.map",
+    "main.f9eb9c97.js.map": "/static/js/main.f9eb9c97.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6d7897c.css",
+    "static/js/main.f9eb9c97.js"
+  ]
+}
