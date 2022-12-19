@@ -1,4 +1,4 @@
-// Le composant represant Banner
+// Le composant represante Banner
 
 // imports
 import React from 'react';
